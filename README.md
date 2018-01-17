@@ -36,7 +36,7 @@ Create a gallery like in the exemple using BS / JQ / API from Unsplash
 => google is your friend... sometimes
 
 
-¯\_(ツ)_/¯
+¯\\\_(ツ)\_/¯ 
 
 
 ## REFERENCE:
