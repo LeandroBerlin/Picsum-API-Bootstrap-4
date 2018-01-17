@@ -24,13 +24,19 @@ Create a gallery like in the exemple using BS / JQ / API from Unsplash
 ## WORKFLOW/SOLUTION (at least one of them...):
 
 => you should google: startbootstrap-thumbnail-gallery
+
 => you should check Picsum docs first, how to https://picsum.photos/list works and other solution
+
 => you should check Ajax docs if needed: http://api.jquery.com/jquery.ajax
+
 => you should check For statement if needed: https://www.w3schools.com/js/js_loop_for.asp
+
 => you should use console.log to debug what you're dealing with
+
 => google is your friend... sometimes
 
-( ͡° ͜ʖ ͡°)
+
+¯\_(ツ)_/¯
 
 
 ## REFERENCE:
