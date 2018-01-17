@@ -1,5 +1,5 @@
 
-# WORK WITH STARTBOOTSTRAP BOILERPLATE AND PICSUM API
+# BOOTSTRAP BOILERPLATE AND PICSUM API
 
 ## TASK: 
 
@@ -11,10 +11,6 @@ Create a gallery like in the exemple using BS / JQ / API from Unsplash
 => Use the API from Unsplash (you can use PICSUM PHOTOS - make it easyer!)
 => Select the images from /list and be creative ("should not be the firsts or lasts")
 
-## TIME:
-
-45 - 60 minutes
-15:20-15:35 you have to finish!
 
 ## EXTRA POINT:
 
@@ -46,6 +42,6 @@ https://getbootstrap.com/
 https://picsum.photos/
 https://github.com/BlackrockDigital/startbootstrap-thumbnail-gallery
 
-## RUN from REPO
+## RUN FROM THIS REPO
 
-Clone, run npm install and then run gulp dev which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the gulpfile.js to see which tasks are included with the dev environment.
+Clone, run 'npm install' and then run 'gulp dev' which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the gulpfile.js to see which tasks are included with the dev environment.
