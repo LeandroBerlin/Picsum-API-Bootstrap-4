@@ -3,7 +3,7 @@
 
 ## TASK: 
 
-Create a gallery like in the exemple using BS / JQ / API from Unsplash
+Create a gallery like in the example using BS / JQ / API from Unsplash
 
 ## USE: 
 
